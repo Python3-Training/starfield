@@ -4,6 +4,7 @@ from tkinter import Tk, Canvas, mainloop
 from random import randrange
 # 2020/09/15: Cloned. Updated to add a weighted colorization. -Rn
 
+STAR_SIZE   = 12
 
 COLOR_WHITE = 0
 COLOR_RED   = 1
@@ -70,7 +71,7 @@ class StarField:
         for star in self.stars:
             # move depth
             star.z -= 0.19
-            star.radius = (1 - float(star.z) / self.max_depth) * 1.7
+            star.radius = (1 - float(star.z) / self.max_depth) * STAR_SIZE
 
             # reset depth
             if star.z <= 0:
