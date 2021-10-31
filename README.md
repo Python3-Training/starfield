@@ -8,3 +8,5 @@ To join our happy band of Pythoneers, also feel free to join us on [Facebook](ht
 
 ![Larger, colorized, stars:](https://github.com/Python3-Training/starfield/blob/master/stars.gif)
 
+p.s. If you would like to plack (play + hack -=> Kobayashi Maru?) a game then you might enjoy [StarTrek for Python](https://github.com/Python3-Training/startrek1971).
+
