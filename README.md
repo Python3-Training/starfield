@@ -4,7 +4,7 @@ A colorized, readily re-sizable starfield simulation using Python 3 & Tkinter.
 
 If you would like to learn how to use Python to create such graphics, then [you might enjoy this free training](https://www.udemy.com/course/introduction-to-turtle-graphics).
 
-Also feel free to enjoy the free tutorial [Facebook](https://soft9000.com/PY3KTG/index.html).
+Also feel free to enjoy the free tutorial @[Soft9000.com](https://soft9000.com/PY3KTG/index.html).
 
 ![Larger, colorized, stars:](https://github.com/Python3-Training/starfield/blob/master/stars.gif)
 
